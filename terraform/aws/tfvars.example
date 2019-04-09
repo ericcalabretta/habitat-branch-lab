@@ -1,0 +1,13 @@
+origin = "value_goes_here"
+aws_profile = "value_goes_here"
+aws_key_pair_file = "value_goes_here"
+aws_key_pair_name = "value_goes_here"
+tag_customer = "value_goes_here"
+tag_project = "value_goes_here
+tag_name = "value_goes_here"
+tag_dept = "value_goes_here"
+tag_contact = "value_goes_here"
+tag_application = "value_goes_here"
+application = "value_goes_here"
+count = 3
+windows_admin_password = "value_goes_here"
